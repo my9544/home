@@ -1,5 +1,7 @@
 def RSP () :
-
+i = 0
+s = input("count?")
+while(i != s)
 
 """ 
 result ten 
