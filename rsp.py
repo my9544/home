@@ -1,7 +1,5 @@
 def RSP () :
 
-i = 0
-while(i != 10): 
 
 """ 
 result ten 
